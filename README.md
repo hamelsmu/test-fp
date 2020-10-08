@@ -84,7 +84,11 @@ See below for a more detailed list of features.
 
 1.  Generate a copy of this repo by clicking [on this link](https://github.com/fastai/fastpages/generate).  Name your repo anything you like **except** {your-username}.github.io.
 
-2. **GitHub Actions will automatically open a PR** on your new repository ~ 30 seconds after the copy is created.  Follow the instructions in that PR to continue.
+2. Navigate to the Actions tab in your new reposotory and click on `Enable Actions on this repository`:
+
+3. TODO
+
+3. **GitHub Actions will automatically open a PR** on your new repository ~ 30 seconds after you trigger the workflow.  Follow the instructions in that PR to continue.
 
 >If you are not seeing a PR, please make sure you have third party actions enabled in your organization: **Settings -> Actions -> Actions Permissions -> Enable local and third party Actions for this repository**
 
